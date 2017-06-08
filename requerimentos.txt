@@ -1,0 +1,4 @@
+
+1.- cambiar colores de los puntos
+2.- pasar las acciones de las imagenes grandes
+3.- redreccionar los anchors
